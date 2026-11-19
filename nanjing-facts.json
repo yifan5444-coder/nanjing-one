@@ -1,0 +1,552 @@
+{
+  "ATTRACTIONS": [
+    {
+      "id": "sun-yat-sen-mausoleum",
+      "name": "Sun Yat-sen Mausoleum",
+      "pinyin": "Zhōngshān Líng",
+      "zh": "中山陵",
+      "img": "sunyatsen",
+      "alt": "Granite staircase rising up Purple Mountain toward the blue-tiled memorial hall of Sun Yat-sen Mausoleum in Nanjing",
+      "hook": "A monumental granite stairway climbing Purple Mountain to the resting place of the founder of the Republic of China.",
+      "desc": "Designed by architect Lü Yanzhi and built between 1926 and 1929, the Sun Yat-sen Mausoleum (Zhōngshān Líng, 中山陵) sits on the southern slope of Purple Mountain (Zǐjīn Shān, 紫金山). Its ceremonial axis links a memorial archway, stone steps, a stele pavilion, and the blue-roofed sacrificial hall in traditional Chinese forms paired with reinforced concrete. From the upper terrace, visitors look south across the tree canopy of eastern Nanjing.",
+      "district": "Xuanwu District",
+      "metro": "Line 2 to Xiamafang (下马坊) or Muxuyuan (苜蓿园), then scenic shuttle or walk",
+      "ticket": "Free admission; advance real-name reservation required (closed Mondays except statutory holidays; check official Zhongshan Scenic Area booking before visiting)",
+      "time": "2–3 hours"
+    },
+    {
+      "id": "ming-xiaoling",
+      "name": "Ming Xiaoling Mausoleum",
+      "pinyin": "Míng Xiàolíng",
+      "zh": "明孝陵",
+      "img": "mingxiaoling",
+      "alt": "Pair of carved stone elephants facing each other along the tree-shaded Sacred Way at Ming Xiaoling Mausoleum in Nanjing",
+      "hook": "The UNESCO-listed tomb of the Ming dynasty founder, approached along an 1,800-metre stone-animal avenue.",
+      "desc": "Ming Xiaoling Mausoleum (Míng Xiàolíng, 明孝陵) is the resting place of the Hongwu Emperor (Zhu Yuanzhang), built between 1381 and 1405 at the southern foot of Purple Mountain. Inscribed by UNESCO in 2003 as part of the Imperial Tombs of the Ming and Qing Dynasties, it set the architectural template for later Ming and Qing imperial tombs near Beijing. Its winding Sacred Way (Shéndào, 神道) includes Elephant Road (Shíxiàng Lù, 石象路), flanked by 12 pairs of six animal species including lions, camels, elephants, and qilin.",
+      "district": "Xuanwu District",
+      "metro": "Line 2 to Muxuyuan (苜蓿园)",
+      "ticket": "Paid ticket required (check current Zhongshan Scenic Area rates before visiting)",
+      "time": "2–3 hours"
+    },
+    {
+      "id": "confucius-temple-qinhuai",
+      "name": "Confucius Temple & Qinhuai River",
+      "pinyin": "Fūzǐmiào & Qínhuái Hé",
+      "zh": "夫子庙与秦淮河",
+      "img": "qinhuai",
+      "alt": "Illuminated pavilions and red lanterns along the Qinhuai River beside Confucius Temple at night in Nanjing",
+      "hook": "Imperial examination halls and lantern-lit canals along Nanjing's historic cultural waterway.",
+      "desc": "Confucius Temple (Fūzǐmiào, 夫子庙) stands on the northern bank of the Inner Qinhuai River (Qínhuái Hé, 秦淮河), adjacent to the former Jiangnan Examination Hall (Jiāngnán Gòngyuàn, 江南贡院). An imperial academy was first established on this riverbank in the 4th century CE during the Eastern Jin dynasty, and the quarter flourished as southeastern China's scholarly center through the Ming and Qing periods. Restored after 1985, the river belt blends Ming-Qing style halls, stone arch bridges such as Wende Bridge, and evening pleasure boats.",
+      "district": "Qinhuai District",
+      "metro": "Line 3 to Fuzimiao (夫子庙) or Line 1 to Sanshanjie (三山街)",
+      "ticket": "Pedestrian riverside area free; temple halls, museum, and boat cruises ticketed separately (check before visiting)",
+      "time": "2–3 hours (best late afternoon into night)"
+    },
+    {
+      "id": "xuanwu-lake",
+      "name": "Xuanwu Lake",
+      "pinyin": "Xuánwǔ Hú",
+      "zh": "玄武湖",
+      "img": "xuanwu",
+      "alt": "Calm waters of Xuanwu Lake with small boats and Purple Mountain rising behind in Nanjing",
+      "hook": "Five bridge-linked islands bordered by the Ming City Wall and Purple Mountain in the heart of the city.",
+      "desc": "Xuanwu Lake (Xuánwǔ Hú, 玄武湖) sits directly outside the northern Ming City Wall, linking five islands (Huanzhou, Yingzhou, Liangzhou, Cuizhou, and Lingzhou) via arched bridges. Used as an imperial garden during the Six Dynasties (222–589), for naval drills in the Song dynasty, and to house the Ming dynasty's Yellow Register Archives (Huángcè Kù, 黄册库), the park is now Nanjing's largest urban lake greenway. Walking the lakeside path frames Purple Mountain to the east and the Zifeng Tower skyline to the southwest.",
+      "district": "Xuanwu District",
+      "metro": "Line 1 to Xuanwumen (玄武门) or Line 3 / Line 4 to Jimingsi (鸡鸣寺)",
+      "ticket": "Free park entry; boat rentals and sightseeing carts priced separately",
+      "time": "2–3 hours"
+    },
+    {
+      "id": "zhonghua-gate-city-wall",
+      "name": "Nanjing City Wall & Zhonghua Gate",
+      "pinyin": "Nánjīng Chéngqiáng · Zhōnghuámén",
+      "zh": "南京城墙·中华门",
+      "img": "zhonghua",
+      "alt": "Massive grey stone archway and defensive walls of Zhonghua Gate on the Nanjing City Wall",
+      "hook": "The largest surviving Ming masonry castle-gate complex, built with three barbicans and 27 hidden troop vaults.",
+      "desc": "Constructed between 1360 and 1386 under the Hongwu Emperor, the Nanjing City Wall (Nánjīng Chéngqiáng, 南京城墙) originally stretched 33.676 kilometres at heights of 14 to 21 metres, enclosing the largest walled city in China. Its southern gateway, originally Jubao Gate (Jùbǎo Mén, 聚宝门) and renamed Zhonghua Gate (Zhōnghuámén, 中华门) in 1931, layers three enclosed courtyards, four arched gates, twin cavalry ramps, and 27 brick-vaulted garrison chambers. Today, visitors can walk kilometers of intact battlements stretching east toward Wuding Gate.",
+      "district": "Qinhuai District",
+      "metro": "Line 1 to Zhonghuamen (中华门)",
+      "ticket": "Paid ticket for gate complex and wall walkway (check current hours and fees before visiting)",
+      "time": "1.5–2 hours"
+    },
+    {
+      "id": "presidential-palace",
+      "name": "Presidential Palace",
+      "pinyin": "Zǒngtǒngfǔ",
+      "zh": "总统府",
+      "img": "presidential",
+      "alt": "Neoclassical facade of the former Presidential Building framed by tall trees at the Presidential Palace in Nanjing",
+      "hook": "Six centuries of Chinese political history inside one compound, from Ming manor and Taiping palace to the 1927–1949 Republican seat.",
+      "desc": "Located at No. 292 Changjiang Road, the Presidential Palace (Zǒngtǒngfǔ, 总统府) served successively as a Ming prince's manor, the Qing Viceroy's office, Hong Xiuquan's Taiping Heavenly Kingdom palace (1853–1864), and the Office of the President of the Republic of China from 1927 to 1949. Now operated as the China Modern History Museum (Zhōngguó Jìndàishǐ Bówùguǎn, 中国近代史博物馆), the compound preserves traditional Jiangnan gardens alongside early 20th-century neoclassical offices. Exhibits trace the 1911 Revolution and the Republican period in detail.",
+      "district": "Xuanwu District",
+      "metro": "Line 2 or Line 3 to Daxinggong (大行宫)",
+      "ticket": "Paid ticket with advance real-name reservation required (closed Mondays except statutory holidays; check before visiting)",
+      "time": "2 hours"
+    },
+    {
+      "id": "nanjing-museum",
+      "name": "Nanjing Museum",
+      "pinyin": "Nánjīng Bówùyuàn",
+      "zh": "南京博物院",
+      "img": "museum",
+      "alt": "Sweeping traditional yellow-roofed main hall of the Nanjing Museum behind an entrance courtyard",
+      "hook": "One of China's three oldest national museums, holding over 400,000 artifacts including imperial Ming and Qing porcelain.",
+      "desc": "Founded in 1933 as the preparatory National Central Museum under educator Cai Yuanpei, the Nanjing Museum (Nánjīng Bówùyuàn, 南京博物院) spans 70,000 square metres near Zhongshan Gate. Its permanent collection of more than 400,000 objects spans prehistoric jade, bronze work, Six Dynasties celadon, and one of the world's largest holdings of Ming and Qing imperial porcelain. Six specialized buildings, including the History Gallery, Digital Gallery, and Republic of China street hall, make it essential on hot or rainy days.",
+      "district": "Xuanwu District",
+      "metro": "Line 2 to Minggugong (明故宫)",
+      "ticket": "Free admission; mandatory advance real-name reservation (closed Mondays; check official mini-program before visiting)",
+      "time": "2.5–4 hours"
+    },
+    {
+      "id": "jiming-temple",
+      "name": "Jiming Temple",
+      "pinyin": "Jīmíng Sì",
+      "zh": "鸡鸣寺",
+      "img": "jiming",
+      "alt": "Dark-tiled eaves of Jiming Temple hillside pavilions silhouetted against the modern Zifeng Tower skyline",
+      "hook": "An ancient Liang-dynasty hillside monastery whose yellow walls and pagoda overlook Xuanwu Lake and the Ming battlements.",
+      "desc": "First established in 527 CE during the Liang dynasty and rebuilt under the Ming Hongwu Emperor in 1387, Jiming Temple (Jīmíng Sì, 鸡鸣寺) is one of Nanjing's oldest active Buddhist temples. Stepped terraces climb Jilong Hill to the seven-story Medicine Buddha Pagoda (Yàoshī Fótǎ, 药师佛塔), Huomeng Building, and the historic Rouge Well (Yānzhī Jǐng, 胭脂井). Outside the temple gate, Jimingsi Road turns into Nanjing's signature cherry-blossom avenue each spring.",
+      "district": "Xuanwu District",
+      "metro": "Line 3 or Line 4 to Jimingsi (鸡鸣寺)",
+      "ticket": "Modest entrance fee for the temple (check at the gate); Jimingsi Road outside is free",
+      "time": "1–1.5 hours"
+    },
+    {
+      "id": "yuejiang-tower",
+      "name": "Yuejiang Tower",
+      "pinyin": "Yuèjiāng Lóu",
+      "zh": "阅江楼",
+      "img": "yuejiang",
+      "alt": "Ming-style Yuejiang Tower rising atop wooded Lion Mountain above a stretch of the Nanjing City Wall",
+      "hook": "Conceived by the Ming founder in 1374 and completed six centuries later atop Lion Mountain overlooking the Yangtze.",
+      "desc": "In 1374, the Hongwu Emperor ordered Yuejiang Tower (Yuèjiāng Lóu, 閱江樓) built on Lion Mountain (Shīzishān, 狮子山) to commemorate his 1360 victory over Chen Youliang, though construction was never carried out in his lifetime. Designed by Southeast University's Professor Du Shunbao and completed in 2001, the 52-metre, seven-layer Ming-style pavilion commands wide views north across the Yangtze River Bridge and south over the old walled city. It is grouped with Yellow Crane Tower, Tengwang Pavilion, and Yueyang Tower as one of the Four Famous Towers of Jiangnan.",
+      "district": "Gulou District",
+      "metro": "Line 5 to Xiaguan (下关) or Line 3 to Shangyuanmen (上元门), then 10–15 min walk",
+      "ticket": "Paid ticket required (check current hours and prices before visiting)",
+      "time": "1.5–2 hours"
+    },
+    {
+      "id": "niushou-mountain",
+      "name": "Niushou Mountain Cultural Park",
+      "pinyin": "Niúshǒushān",
+      "zh": "牛首山",
+      "img": "niushou",
+      "alt": "Sculptural lattice domes of the Usnisa Palace rising over the wide plaza at Niushou Mountain in Nanjing",
+      "hook": "Twin mountain peaks housing a six-story subterranean Buddhist sanctuary built inside a reclaimed mining pit.",
+      "desc": "Named for its twin 242.9-metre peaks resembling ox horns, Niushou Mountain (Niúshǒushān, 牛首山) has been a Buddhist pilgrimage site since the Tang dynasty. Opened in 2014–2015, the monumental Usnisa Palace (Fódǐng Gōng, 佛顶宫), spanning three levels above ground and six underground, enshrines the parietal skull relic of Shakyamuni Buddha excavated from Nanjing's Dabao'en Temple site. Between the monumental lotus dome and spring-to-autumn mountain trails, it is Nanjing's boldest piece of contemporary sacred architecture.",
+      "district": "Jiangning District",
+      "metro": "Line 1 to Tianlongsi (天龙寺) + Bus 712/755, or Line S1 to Hohai University / Focheng West Road + short taxi",
+      "ticket": "Paid ticket; in-park shuttle bus optional and recommended (check prices and relic display dates before visiting)",
+      "time": "3–4 hours"
+    },
+    {
+      "id": "nanjing-massacre-memorial",
+      "name": "Nanjing Massacre Memorial Hall",
+      "pinyin": "Qīn Huá Rìjūn Nánjīng Dàtúshā Yùnàn Tóngbāo Jìniànguǎn",
+      "zh": "侵华日军南京大屠杀遇难同胞纪念馆",
+      "img": "memorial",
+      "alt": "Stark grey concrete memorial walls and reflective courtyard at the Nanjing Massacre Memorial Hall in Jiangdongmen",
+      "hook": "A stark architectural memorial built beside a 1937 mass burial site in Jiangdongmen to document the Nanjing Massacre.",
+      "desc": "Located in southwestern Nanjing at Jiangdongmen (Jiāngdōngmén, 江东门), the Memorial Hall stands beside a mass grave known as the \"pit of ten thousand people\" (wànrénkēng, 万人坑). The museum preserves archaeological remains, survivor testimonies, and historical records documenting the atrocities committed after Nanjing fell on 13 December 1937. Its bare stone courtyards, water basins, and sculptural reliefs create one of the city's most solemn spaces for historical reflection.",
+      "district": "Jianye District",
+      "metro": "Line 2 to Yunjinlu (云锦路)",
+      "ticket": "Free admission; mandatory advance real-name reservation (closed Mondays; check official channel before visiting)",
+      "time": "2 hours"
+    },
+    {
+      "id": "porcelain-tower-dabaoen",
+      "name": "Porcelain Tower & Great Bao'en Temple Park",
+      "pinyin": "Dàbào'ēn Sì Yízhǐ Gōngyuán",
+      "zh": "大报恩寺遗址公园",
+      "img": "porcelain",
+      "alt": "Modern glass-and-steel pagoda rising behind traditional temple walls at Great Bao'en Temple Heritage Park in Nanjing",
+      "hook": "The archaeological site of the 15th-century Ming Porcelain Tower, reimagined with a modern glass pagoda above its underground crypt.",
+      "desc": "Standing just south of Zhonghua Gate on the Outer Qinhuai River, the original Porcelain Tower of Great Bao'en Temple (Dàbào'ēn Sì, 大报恩寺) was completed in 1431 under Ming emperors Yongle and Xuande, with Zheng He supervising repairs. Made famous in Europe by 17th-century Dutch traveler Johan Nieuhof before its destruction in the 1850s Taiping Rebellion, the site reopened in December 2015 after major archaeological excavations uncovered the Song-era underground crypt and Ashoka Pagoda reliquary. A light-filled glass-and-steel tower now marks the original pagoda's footprint.",
+      "district": "Qinhuai District",
+      "metro": "Line 1 to Zhonghuamen (中华门) or Line 3 to Yuhuamen (雨花门)",
+      "ticket": "Paid ticket required (check current hours and fees before visiting)",
+      "time": "1.5–2 hours"
+    }
+  ],
+  "PHOTO_SPOTS": [
+    {
+      "id": "spot-jiming-sakura",
+      "name": "Jiming Temple Road",
+      "pinyin": "Jīmíngsì Lù",
+      "zh": "鸡鸣寺路",
+      "tag": "Spring Blossoms",
+      "img": "sakura",
+      "alt": "Pale pink cherry blossoms framing the yellow walls and dark pagoda roof of Jiming Temple in spring",
+      "shoot": "More than 170 Somei-Yoshino cherry trees arching over the 500-metre road against Jiming Temple's yellow walls and seven-story pagoda.",
+      "when": "Mid-March to early April (peak late March to early April); 06:00–09:00 before heavy daytime crowds.",
+      "tip": "Arrive via Metro Line 3/4 (Jimingsi) at dawn, then climb the adjacent Taicheng City Wall (Jiefang Gate) for a raised canopy view."
+    },
+    {
+      "id": "spot-xuanwu-sunrise",
+      "name": "Xuanwu Lake & Taicheng",
+      "pinyin": "Xuánwǔ Hú · Táichéng",
+      "zh": "玄武湖·台城",
+      "tag": "Sunrise",
+      "img": "hero",
+      "alt": "Sunrise light over the Ming City Wall battlements and Xuanwu Lake stretching toward the Nanjing skyline",
+      "shoot": "600-year-old Ming battlements curving past willow banks, mirror-calm lake water, and Purple Mountain rising to the east.",
+      "when": "Year-round (light mist mornings shine); arrive 30–45 minutes before local sunrise (roughly 05:00 in summer to 06:45 in winter).",
+      "tip": "The wall walkway typically opens around 08:00, so shoot pre-dawn blue hour from the 24/7 outer lakeside path near Jiefang Gate with a 24–70mm or 70–200mm lens."
+    },
+    {
+      "id": "spot-zhonghua-sunset",
+      "name": "Zhonghua Gate to Wuding Gate Wall",
+      "pinyin": "Zhōnghuámén · Wǔdìngmén",
+      "zh": "中华门 · 武定门",
+      "tag": "Sunset",
+      "img": "wall",
+      "alt": "Stone archway and ramparts of the southern Nanjing City Wall overlooking tiled roofs of Old City South",
+      "shoot": "Low-angle amber sunlight raking across weathered Ming bricks, crenellations, watchtowers, and the tiled roofs of Old City South.",
+      "when": "Clear afternoons year-round; arrive 1 hour before local sunset (golden hour starts 30–45 minutes before sunset).",
+      "tip": "Enter at Zhonghua Gate and walk the flat ~2 km eastward stretch toward Wuding Gate, using arched doorways to frame the skyline."
+    },
+    {
+      "id": "spot-qinhuai-night",
+      "name": "Qinhuai River at Wende Bridge",
+      "pinyin": "Qínhuái Hé · Wéndé Qiáo",
+      "zh": "秦淮河·文德桥",
+      "tag": "Night & Blue Hour",
+      "img": "qinhuai-night",
+      "alt": "Lantern-lit riverside white-walled houses and painted bridges reflected in the dark Qinhuai River at night",
+      "shoot": "Red lanterns, traditional upturned eaves, and painted pleasure boats gliding across dark water reflections.",
+      "when": "Year-round evenings; 18:30–21:00 (blue hour roughly 18:30–19:00; architectural lights switch on around 19:00).",
+      "tip": "Stand on Wende Bridge or Dongyuan Bridge during blue hour with a fast 35mm or 50mm prime to keep sky color before full night."
+    },
+    {
+      "id": "spot-niushou-mist",
+      "name": "Niushou Mountain & Usnisa Palace",
+      "pinyin": "Niúshǒushān · Fódǐng Gōng",
+      "zh": "牛首山·佛顶宫",
+      "tag": "Architecture & Mist",
+      "img": "niushou",
+      "alt": "Wide exterior reflection terrace and woven golden dome of the Usnisa Palace at Niushou Mountain",
+      "shoot": "The symmetrical lotus dome of Usnisa Palace mirrored in its shallow pool, plus \"Niushou Yanlan\" mountain mist across the twin peaks.",
+      "when": "Spring (March–May, \"Spring Niushou\") or late October–early December; arrive at 08:30 opening or after light rain.",
+      "tip": "Go straight to the Usnisa Palace pool at 08:30 opening with a wide-angle lens (16–35mm) for clean reflections without crowds."
+    },
+    {
+      "id": "spot-meiling-autumn",
+      "name": "Meiling Palace",
+      "pinyin": "Měilíng Gōng",
+      "zh": "美龄宫",
+      "tag": "Late Autumn",
+      "img": "meiling",
+      "alt": "Green-glazed tile roof of Republican-era Meiling Palace surrounded by golden autumn leaves on Purple Mountain",
+      "shoot": "Green-glazed tile roofs nestled inside golden plane trees, which look like an emerald pendant on a gold necklace from above.",
+      "when": "Late November to mid-December (peak early-to-mid December); 09:00–11:00 or 15:00–17:00 for warm side light.",
+      "tip": "Verify current Zhongshan Scenic Area drone rules before flying; from the ground, frame the stone staircase through golden sycamore leaves."
+    },
+    {
+      "id": "spot-qixia-maples",
+      "name": "Qixia Mountain",
+      "pinyin": "Qīxiá Shān",
+      "zh": "栖霞山",
+      "tag": "Red Maples",
+      "img": "qixia",
+      "alt": "Bright crimson autumn maple leaves in the foreground with Mingjing Lake and temple eaves below at Qixia Mountain",
+      "shoot": "Dense crimson and amber maples contrasting against Qixia Temple's yellow walls and morning mist over Mingjing Lake.",
+      "when": "Mid-November to early December (peak late November through the first week of December); arrive at 07:00 opening on weekdays.",
+      "tip": "Use a 70–200mm telephoto from Mingjing Lake or Red Maple Valley to compress the layered maple canopy against temple roofs."
+    },
+    {
+      "id": "spot-laomendong",
+      "name": "Laomendong & South Wall Overlook",
+      "pinyin": "Lǎoméndōng",
+      "zh": "老门东",
+      "tag": "Old South Dusk",
+      "img": "laomendong",
+      "alt": "Aerial view from the Nanjing City Wall over grey-tiled courtyards of Laomendong toward modern towers",
+      "shoot": "Layers of grey-tiled Jiangnan courtyards and brick horse-head walls lined up beneath the southern Ming ramparts.",
+      "when": "Late afternoon through blue hour year-round, as alleyway lanterns switch on under the twilight sky.",
+      "tip": "Climb the southern city wall walkway just above Laomendong for a clean high-angle contrast between Ming roofs and downtown towers."
+    },
+    {
+      "id": "spot-yangtze-bridge",
+      "name": "Nanjing Yangtze River Bridge",
+      "pinyin": "Nánjīng Chángjiāng Dàqiáo",
+      "zh": "南京长江大桥",
+      "tag": "Industrial Landmark",
+      "img": "bridge",
+      "alt": "Cars crossing the upper roadway deck of the steel-truss Nanjing Yangtze River Bridge with river barges below",
+      "shoot": "The 1968 double-decked steel truss bridge, monumental bridgehead towers, and cargo barges moving along the Yangtze.",
+      "when": "Late afternoon or bright overcast days year-round to keep detail on both the steel superstructure and river glare.",
+      "tip": "Shoot from the Gulou riverfront promenade or Yuejiang Tower overlook with a 70–200mm lens to stack the piers and passing barges."
+    }
+  ],
+  "FILMS": [
+    {
+      "year": "2009",
+      "title": "Spring Fever",
+      "zh": "春风沉醉的夜晚",
+      "pinyin": "Chūnfēng Chénzuì de Yèwǎn",
+      "director": "Dir. Lou Ye",
+      "location": "Qingdao Road (青岛路), Xinjiekou & Fashion Lady underground mall (新街口时尚莱迪), Xuanwu Lake (玄武湖), Zijin Mountain (紫金山), and Baguazhou (八卦洲).",
+      "scene": "Shot clandestinely on handheld digital cameras: apartment interiors, bookstore walks around Qingdao Road, underground mall escalators at Xinjiekou, lakeside strolls, and riverside outskirts.",
+      "still": "Yes · the streets, lake, mountain, and underground shopping corridors remain accessible, though individual cafés and shops change over time.",
+      "still_class": "yes",
+      "cite": 1
+    },
+    {
+      "year": "2011",
+      "title": "The Flowers of War",
+      "zh": "金陵十三钗",
+      "pinyin": "Jīnlíng Shísān Chāi",
+      "director": "Dir. Zhang Yimou",
+      "location": "Shiqiu Film and Television Base (石湫影视基地), Lishui District, southern Nanjing (filming began on location in Nanjing on 10 January 2011).",
+      "scene": "Exterior sequences around the purpose-built 1930s Catholic cathedral compound and ruined streetscapes where schoolgirls, refugees, and Qinhuai women take shelter.",
+      "still": "Yes · the Shiqiu church set and period European-style street sets in Lishui District remain standing (note: distinct from the historic Ginling College campus in downtown Gulou).",
+      "still_class": "yes",
+      "cite": 2
+    },
+    {
+      "year": "2013",
+      "title": "So Young",
+      "zh": "致我们终将逝去的青春",
+      "pinyin": "Zhì Wǒmen Zhōngjiāng Shìqù de Qīngchūn",
+      "director": "Dir. Zhao Wei",
+      "location": "Southeast University (东南大学) Sipailou Campus (Central Avenue, Spring Fountain (涌泉池), and Grand Auditorium (大礼堂)), plus Nanjing University and other local campuses.",
+      "scene": "Zheng Wei's freshman arrival, 1990s campus bike rides beneath French plane trees, and key university courtyard sequences.",
+      "still": "Yes · Southeast University's Sipailou Grand Auditorium, fountain, and tree-lined Central Avenue remain intact (check current campus visitor entry rules before going).",
+      "still_class": "yes",
+      "cite": 3
+    },
+    {
+      "year": "2014",
+      "title": "Blind Massage",
+      "zh": "推拿",
+      "pinyin": "Tuīná",
+      "director": "Dir. Lou Ye",
+      "location": "Wutaishan (五台山) clinic location, Xuanwu Lake Park (玄武湖公园), Zhujiang Road (珠江路) residential buildings, Music Hall of the Population Institute, and a northern Nanjing hospital.",
+      "scene": "Shot on location starting in 2012: daily massage parlor interiors, Xuanwu Lake park scenes, and neighborhood street walks around Wutaishan and Zhujiang Road.",
+      "still": "Partially · Xuanwu Lake Park and the Wutaishan and Zhujiang Road neighborhoods are unchanged, while specific interior clinic rooms were private or temporary sets.",
+      "still_class": "part",
+      "cite": 4
+    },
+    {
+      "year": "2015",
+      "title": "Wolf Warrior",
+      "zh": "战狼",
+      "pinyin": "Zhàn Láng",
+      "director": "Dir. Wu Jing",
+      "location": "Nanjing and Sun Yat-sen Mausoleum (中山陵) area, plus Nanjing Military Region training sites in Jiangsu.",
+      "scene": "Exterior action and Jiangsu location sequences shot during Nanjing's peak summer heat alongside military training facilities.",
+      "still": "Partially · Sun Yat-sen Mausoleum and Zhongshan Scenic Area are open to visitors; active military training bases are closed to the public.",
+      "still_class": "part",
+      "cite": 5
+    },
+    {
+      "year": "2015",
+      "title": "Angel of Nanjing",
+      "zh": "南京天使",
+      "pinyin": "Nánjīng Tiānshǐ",
+      "director": "Dir. Frank Ferendo & Jordan Horowitz",
+      "location": "1968 Nanjing Yangtze River Bridge (南京长江大桥) walkways, guard towers, and nearby Gulou riverside.",
+      "scene": "Feature-length observational documentary shadowing volunteer Chen Si patrolling the steel double-deck bridge rail weekends on his scooter to pull strangers back from the brink.",
+      "still": "Yes · the 1968 Yangtze River Bridge pedestrian decks and bridgehead towers reopened fully to foot and rail traffic after restoration.",
+      "still_class": "yes",
+      "cite": 8
+    },
+    {
+      "year": "2021",
+      "title": "Love Will Tear Us Apart",
+      "zh": "我要我们在一起",
+      "pinyin": "Wǒ Yào Wǒmen Zài Yīqǐ",
+      "director": "Dir. Mo Sha",
+      "location": "Nanjing University areas, downtown arterial roads/viaducts, and local residential neighborhoods (principal photography began in Nanjing on 28 May 2019).",
+      "scene": "Early college courtship and gritty summer urban commuting/apartment-hunting scenes before the story moves north to Gansu and Xinjiang.",
+      "still": "Yes · Nanjing's downtown roads and university streets remain open.",
+      "still_class": "yes",
+      "cite": 6
+    }
+  ],
+  "FILM_SOURCES": [
+    [
+      "Wikipedia: Spring Fever (2009 film) & Metrograph / Film Forum program notes",
+      "https://en.wikipedia.org/wiki/Spring_Fever_(2009_film)"
+    ],
+    [
+      "Wikipedia: The Flowers of War & Trip.com Shiqiu Film Base guide",
+      "https://en.wikipedia.org/wiki/The_Flowers_of_War"
+    ],
+    [
+      "Southeast University (seu.edu.cn) & People's Daily reports on So Young",
+      "https://en.people.cn/"
+    ],
+    [
+      "Wikipedia: Blind Massage (Production section)",
+      "https://en.wikipedia.org/wiki/Blind_Massage"
+    ],
+    [
+      "Wikipedia: Wolf Warrior (Production section)",
+      "https://en.wikipedia.org/wiki/Wolf_Warrior"
+    ],
+    [
+      "Wikipedia: Love Will Tear Us Apart (2021 film)",
+      "https://en.wikipedia.org/wiki/Love_Will_Tear_Us_Apart_(2021_film)"
+    ],
+    [
+      "Wikipedia: City of Life and Death (filmed in Tianjin)",
+      "https://en.wikipedia.org/wiki/City_of_Life_and_Death"
+    ],
+    [
+      "IMDb / Documentary notes: Angel of Nanjing (2015, filmed on Nanjing Yangtze River Bridge)",
+      "https://www.youtube.com/watch?v=QA93svbHgok"
+    ],
+    [
+      "Shanghai Film Park notes: Dead to Rights / Nanjing Photo Studio (2025, 1:1 Nanjing street set)",
+      "https://www.youtube.com/watch?v=4edT8WbEcIY"
+    ]
+  ],
+  "ROUTES": {
+    "classic": {
+      "name": "1-Day Classic Nanjing Route",
+      "summary": "Six centuries from Ming imperial tombs and Republican landmarks to sunset battlements and lantern boats, linked cleanly by Metro Lines 2, 3, and 1.",
+      "stops": [
+        [
+          "Morning · Ming Xiaoling Mausoleum (明孝陵)",
+          "L2",
+          "Muxuyuan (苜蓿园)",
+          "Walk Elephant Road (Shixiang Lu) early while light filters through the trees."
+        ],
+        [
+          "Late Morning · Sun Yat-sen Mausoleum (中山陵)",
+          "L2",
+          "Muxuyuan / Xiamafang shuttle",
+          "Climb the granite stairway across Purple Mountain (book your free timed reservation ahead; closed Mondays)."
+        ],
+        [
+          "Midday · Nanjing Museum (南京博物院)",
+          "L2",
+          "Minggugong (明故宫)",
+          "Two stops west on Line 2; explore imperial porcelain and the Republic Hall (free reservation required; closed Mondays)."
+        ],
+        [
+          "Afternoon · Presidential Palace (总统府)",
+          "L2 / L3",
+          "Daxinggong (大行宫)",
+          "One stop west on Line 2; trace Taiping and Republican history inside the garden compound (closed Mondays)."
+        ],
+        [
+          "Sunset · Zhonghua Gate & City Wall (中华门)",
+          "L1",
+          "Zhonghuamen (中华门)",
+          "Transfer to Line 1 at Xinjiekou; arrive 1 hour before sunset to walk the battlements east toward Wuding Gate."
+        ],
+        [
+          "Night · Confucius Temple & Qinhuai River (夫子庙·秦淮河)",
+          "L3",
+          "Fuzimiao (夫子庙)",
+          "Catch blue hour on Wende Bridge around 18:30–19:00 and finish with a painted-boat cruise or Laomendong walk."
+        ]
+      ]
+    },
+    "photo": {
+      "name": "2-Day Nanjing Photography Route",
+      "summary": "Timed strictly around dawn mist, soft morning shade, sunset masonry, and blue-hour reflections, built for photographers on Metro Lines 1, 2, 3, 4, 5, and S1.",
+      "days": [
+        [
+          "Day 1 · Lake Dawn, Cherry/Campus Light & Qinhuai Blue Hour",
+          [
+            [
+              "Pre-Dawn · Xuanwu Lake & Jiefang Gate (玄武湖·解放门)",
+              "L3 / L4",
+              "Jimingsi (鸡鸣寺)",
+              "Arrive 30–45 min before sunrise along the 24/7 outer lakeside path facing Purple Mountain."
+            ],
+            [
+              "Morning · Jiming Temple & Taicheng Wall (鸡鸣寺·台城)",
+              "L3 / L4",
+              "Jimingsi (鸡鸣寺)",
+              "Photograph Jimingsi Road blossoms (late March–early April) or climb Taicheng once the wall opens (~08:00)."
+            ],
+            [
+              "Midday · Southeast University Sipailou Campus (东南大学四牌楼)",
+              "L3",
+              "Fuqiao / Jimingsi",
+              "Shoot the French-sycamore Central Avenue and Grand Auditorium seen in So Young (check campus visitor entry)."
+            ],
+            [
+              "Sunset · Zhonghua Gate to Wuding Gate (中华门 · 武定门)",
+              "L1",
+              "Zhonghuamen (中华门)",
+              "Walk the flat 2 km eastern wall stretch 1 hour before sunset as amber light hits the Ming brickwork."
+            ],
+            [
+              "Blue Hour · Laomendong & Wende Bridge (老门东·文德桥)",
+              "L3",
+              "Wudingmen / Fuzimiao",
+              "Descend into Laomendong's grey-tile lanes at dusk, then frame lantern reflections on Wende Bridge."
+            ]
+          ]
+        ],
+        [
+          "Day 2 · Subterranean Sanctuary, Purple Mountain Autumn & Yangtze Dusk",
+          [
+            [
+              "Opening (08:30) · Niushou Mountain Usnisa Palace (牛首山·佛顶宫)",
+              "L1 / S1",
+              "Tianlongsi + Bus 712/755, or S1 to Hohai Univ.",
+              "Catch the reflecting pool without crowds at 08:30 opening or early-morning Niushou Yanlan mountain mist."
+            ],
+            [
+              "Afternoon · Meiling Palace & Purple Mountain (美龄宫·紫金山)",
+              "L2",
+              "Muxuyuan (苜蓿园)",
+              "Best in late Nov–mid Dec (09:00–11:00 or 15:00–17:00) when plane trees frame the green-tiled villa."
+            ],
+            [
+              "Late Afternoon · Yuejiang Tower & Yangtze Riverfront (阅江楼)",
+              "L5 / L3",
+              "Xiaguan (L5) or Shangyuanmen (L3)",
+              "Climb Lion Mountain for wide views over the Yangtze River Bridge before dusk."
+            ]
+          ]
+        ]
+      ]
+    }
+  },
+  "FAQS": [
+    [
+      "When is the best time to visit Nanjing?",
+      "Spring (late March to May) and autumn (late October to early December) offer Nanjing's mildest temperatures and clearest photographic seasons. Late March to early April brings cherry blossoms along Jiming Temple Road, while mid-November through early December peaks for crimson maples at Qixia Mountain and golden plane trees around Meiling Palace. Summers are hot and humid; Nanjing is traditionally grouped among the Yangtze's \"Three Furnaces,\" with a plum-rain season from mid-June through July."
+    ],
+    [
+      "How many days do you need in Nanjing?",
+      "Two to three full days cover Nanjing's core historic layers without rushing. One day is enough for a Purple Mountain–Presidential Palace–Qinhuai River loop, two days add Xuanwu Lake, Nanjing Museum, and the Zhonghua Gate wall at sunset, and a third day leaves room for Niushou Mountain, Yuejiang Tower, or a seasonal foliage detour to Qixia Mountain."
+    ],
+    [
+      "Where is the best sunset photo spot in Nanjing?",
+      "The southern Ming City Wall between Zhonghua Gate (Zhōnghuámén, 中华门) and Wuding Gate is Nanjing's premier sunset viewpoint. Arrive about one hour before local sunset so you catch warm golden-hour light raking across the 600-year-old bricks, tiled roofs of Old City South, and modern towers on the horizon."
+    ],
+    [
+      "When do the cherry blossoms bloom at Jiming Temple?",
+      "The cherry blossom season along Jimingsi Road (鸡鸣寺路) typically begins in mid-March and reaches peak bloom in late March through early April. The 500-metre avenue outside the temple is free to walk, and arriving between 06:00 and 09:00 on a weekday gives you softer morning light and far thinner crowds."
+    ],
+    [
+      "Which movies were actually filmed in Nanjing?",
+      "Verified feature films shot on location in Nanjing include Lou Ye's Spring Fever (2009) and Blind Massage (2014), Zhang Yimou's The Flowers of War (2011, filmed at the Shiqiu Film Base in Lishui District), Zhao Wei's So Young (2013, featuring Southeast University's Sipailou campus), Wu Jing's Wolf Warrior (2015, including Sun Yat-sen Mausoleum), and Mo Sha's Love Will Tear Us Apart (2021). By contrast, Lu Chuan's City of Life and Death (2009) is set in Nanjing during 1937 but began principal filming in Tianjin, so setting and filming location are not always the same."
+    ],
+    [
+      "How do you get around Nanjing by metro?",
+      "The Nanjing Metro is the fastest way between major sights, with 16 operating lines connecting urban districts and suburban hubs. Line 2 links Purple Mountain (Muxuyuan, Xiamafang), Nanjing Museum (Minggugong), Presidential Palace (Daxinggong), and the Memorial Hall (Yunjinlu); Line 1 serves Xuanwu Lake and Zhonghua Gate; Line 3 connects Jiming Temple, Fuzimiao, and Shangyuanmen; and Line 5 (Xiaguan Station) reaches Yuejiang Tower."
+    ],
+    [
+      "Do Nanjing's free museums and mausoleums require advance booking?",
+      "Yes: even free headline sites including Sun Yat-sen Mausoleum, Nanjing Museum, and the Nanjing Massacre Memorial Hall require advance real-name reservations, typically booked up to seven days ahead via their official WeChat mini-programs using passport details for international visitors. Most major museums and mausoleums, including Sun Yat-sen Mausoleum, Nanjing Museum, the Presidential Palace, and the Memorial Hall, are closed on Mondays except statutory public holidays, so always verify schedules before going."
+    ],
+    [
+      "Where can you see autumn foliage in Nanjing?",
+      "Nanjing's local saying \"Spring Niushou, Autumn Qixia\" points to Qixia Mountain (栖霞山) as the top autumn spot, peaking from late November through the first week of December for red maples against Qixia Temple's yellow walls. Inside the city, Ming Xiaoling's Elephant Road ginkgoes typically peak in mid-to-late November, while Meiling Palace's golden plane-tree \"necklace\" peaks from late November to mid-December."
+    ],
+    [
+      "What is the best time to photograph the Qinhuai River at night?",
+      "Aim for 18:30 to 21:00 along Wende Bridge or Dongyuan Bridge near Confucius Temple (Fuzimiao). District lights generally switch on around 19:00, so arriving for blue hour around 18:30–19:00 lets you balance the illuminated red lanterns and painted boats against a deep cobalt sky rather than flat black."
+    ]
+  ]
+}
